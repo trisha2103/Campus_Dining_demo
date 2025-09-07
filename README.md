@@ -8,14 +8,15 @@
 
 ## Quick look
 
+
 <p align="center">
-  <img src="assets/screens/Overview%20page.png" width="900" alt="Overview"/>
+  <img src="./Overview%20page.png" width="900" alt="Overview"/>
 </p>
 <p align="center">
-  <img src="assets/screens/Daily%20planner%20page.png" width="900" alt="Daily Planner"/>
+  <img src="./Daily%20planner%20page.png" width="900" alt="Daily Planner"/>
 </p>
 <p align="center">
-  <img src="assets/screens/Curve%20Explorer%20page.png" width="900" alt="Curve Explorer"/>
+  <img src="./Curve%20Explorer%20page.png" width="900" alt="Curve Explorer"/>
 </p>
 
 ---
